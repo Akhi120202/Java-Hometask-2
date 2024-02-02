@@ -1,0 +1,3 @@
+stationId:Station1
+availableTimeslots:900,1200,930,
+bookedUsers:ExternalUser1-false,Admin1-true,ExternalUser2-false,

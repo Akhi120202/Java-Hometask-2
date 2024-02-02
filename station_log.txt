@@ -1,0 +1,11 @@
+ExternalUser2 booked timeslot 11:00 AM - 11:30 AM at 2023-11-19 22:37:522023-11-19 22:54:12 : Charging station message
+2023-11-19 22:55:50 : Charging station message
+2023-11-19 23:11:45 : Charging station message
+2023-11-20 01:03:16 : Charging station message
+2023-11-20 01:06:42 : ExternalUser2 booked timeslot 16:00 AM - 16:30 AM at 2023-11-20 01:06:42
+2023-11-20 01:19:03 : ExternalUser2 booked timeslot 14:30 AM - 14:60 AM at 2023-11-20 01:19:03
+2023-11-20 01:36:09 :at 202 ExternalUser2 booked timeslot 15:30 AM - 15:60 AM 3-11-20 01:36:09
+2023-11-20 01:53:49 : ExternalUser2 booked timeslot 11:30 AM - 11:60 AM at 2023-11-20 01:53:49
+2024-02-02 01:02:25 : ExternalUser2 booked timeslot 16:30 AM - 16:60 AM at 2024-02-02 01:02:25
+2024-02-02 01:13:05 : ExternalUser2 booked timeslot 09:30 AM - 09:60 AM at 2024-02-02 01:13:05
+2024-02-02 02:29:56 : ExternalUser2 booked timeslot 10:00 AM - 10:30 AM at 2024-02-02 02:29:562024-02-02 02:39:11 : ExternalUser2 booked timeslot 13:30 AM - 13:60 AM at 2024-02-02 02:39:112024-02-02 02:43:09 : ExternalUser2 booked timeslot 14:00 AM - 14:30 AM at 2024-02-02 02:43:092024-02-02 02:45:52 : ExternalUser2 booked timeslot 14:30 AM - 14:60 AM at 2024-02-02 02:45:522024-02-02 02:48:53 : ExternalUser2 booked timeslot 15:00 AM - 15:30 AM at 2024-02-02 02:48:532024-02-02 17:01:27 : ExternalUser2 booked timeslot 15:30 AM - 15:60 AM at 2024-02-02 17:01:272024-02-02 17:06:06 : ExternalUser2 booked timeslot 16:00 AM - 16:30 AM2024-02-02 17:08:26 : ExternalUser2 booked timeslot 16:30 AM - 16:60 AM
